@@ -6,7 +6,7 @@ public class TreeNode {//node for tree
 	//default constructor
 	public TreeNode(){ 
 	}
-	// constructor 
+	// constructors
 	public TreeNode(Object theElement) {
 		this(theElement, null, null);
 	}
